@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "quote-maker"
+    }
+  },
+  "defaultProject": "quote-maker",
+  "cli": {
+    "analytics": false
+  }
 }
